@@ -2,3 +2,7 @@ pizza
 chicken
 rice
 ice cream
+black adan
+superman
+spiderman
+hulk
